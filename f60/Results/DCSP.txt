@@ -1,0 +1,13 @@
+                  1st solution time(ns)     1st solution changes    Extra changes       best solution time(ns)
+1 th request:         7781                     16                    33% , (12)               123560241        
+2 th request:         6357                     14                    600% , (2)                 8038016        
+3 th request:         3473                     16                    33% , (12)                 3902364        
+4 th request:          146                     14                     55% , (9)                 2236632        
+5 th request:          107                      9                     50% , (6)                  411524        
+6 th request:          171                      6                     20% , (5)                  260235        
+7 th request:           71                     10                    400% , (2)                  237907        
+8 th request:           52                      7                    133% , (3)                  132427        
+9 th request:           70                      7                    133% , (3)                  131657        
+10 th request:         103                     12                     50% , (8)                  359555        
+
+Average:              1833                     11.1                    150% , (6.2)            13927055        

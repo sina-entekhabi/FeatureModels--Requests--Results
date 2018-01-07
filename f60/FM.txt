@@ -1,0 +1,50 @@
+# All Features:60
+# Alternatives:3
+# OR:10
+# Optional:9
+# Mandatory:11
+# Require:5
+# Exclude:2
+Level: Max=5 , avg=2
+
+Constraints:
+OR:0:1,2,3,4
+OR:0:5,6,7
+OR:4:8,9
+Mandatory:4:10
+Mandatory:4:11
+Optional:4:12
+Optional:4:13
+Optional:4:14
+Alternative:3:15,16
+OR:3:17,18,19,20
+OR:3:21,22
+OR:2:23,24,25
+OR:2:26,27,28,29
+Mandatory:2:30
+Mandatory:2:31
+Mandatory:2:32
+Optional:2:33
+Optional:2:34
+Optional:2:35
+OR:23:36,37,38,39
+OR:23:40,41,42
+Mandatory:23:43
+Mandatory:23:44
+Alternative:40:45,46
+Mandatory:40:47
+Mandatory:40:48
+Optional:40:49
+Optional:40:50
+Optional:40:51
+Alternative:33:52,53,54,55
+Mandatory:33:56
+OR:47:57,58
+Mandatory:11:59
+Require:16,34
+Require:37,53
+Require:1,11
+Require:39,18
+Require:24,6
+Exclude:10,13
+Exclude:12,57
